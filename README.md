@@ -30,3 +30,4 @@ javascript:fetch("https://raw.githubusercontent.com/iUnknownBr/KhanDestroyer/ref
 Não é permitido utilizá-lo para fins indevidos ou fraudulentos OU LUCRATIVOS.
 O uso em servidores de terceiros é proibido sem autorização prévia.
  Para permissões e dúvidas, entre em contato antes de qualquer implementação.**
+<a href="#"><img src="https://komarev.com/ghpvc/?username=iUnknownBr&style=for-the-badge&label=Views:&color=gray"/></a>
