@@ -6,13 +6,17 @@
 **Desenvolvidor por: [! im Snow](https://guns.lol/imsnow)&[iUnknowBr](https://guns.lol/iunknownbr)**
 
 # NOSSO DISCORD!
-[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/26j4T8qS7F)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/26j4T8qS7F)
 
 # Recursos
-✅ _Automatizar respostas e poupar tempo!_
-✅ _Resolver exercícios com precisão em segundos!_
-✅ _Avançar rapidamente nos módulos sem esforço!_
-✅ _Maximizar sua produtividade sem complicações!_
+:white_check_mark: _Automatizar respostas e poupar tempo!_
+
+:white_check_mark: _Resolver exercícios com precisão em segundos!_
+
+:white_check_mark: _Avançar rapidamente nos módulos sem esforço!_
+
+:white_check_mark: _Maximizar sua produtividade sem complicações!_
+
 
 # Instruções
 - Copie o script
@@ -20,25 +24,15 @@
 - Abra o khan academy no navegador **ESPERE CARREGAR 100%**
 - Execute o sript e aproveite!!
 
-# Hack/script (copiar)
+**script (copiar)**
+# :warning:ATIVAR O MODO COMPUTADOR PRA USAR NO CELULAR**:warning: 
 ```js
-javascript:fetch("https://raw.githubusercontent.com/iUnknownBr/KhanDestroyer/refs/heads/main/KhanDestroyer.js").then(t=>t.text()).then(eval);
+javascript:fetch("https://res.cloudinary.com/djc2oykzd/raw/upload/KhanDestroyer.js").then(t=>t.text()).then(eval);
 ```
 
-# AVISOS DE USO⚠️ 
+# AVISOS DE USO:book:
 **O Khan Destroyer é uma ferramenta de uso exclusivamente educacional, NÃO AUTORIZAMOS O USO DE TERCEIROS!
 Não é permitido utilizá-lo para fins indevidos ou fraudulentos OU LUCRATIVOS.
 O uso em servidores de terceiros é proibido sem autorização prévia.
  Para permissões e dúvidas, entre em contato antes de qualquer implementação.**
 
-
-
-
-
-
-![Dança de Gato](https://media.tenor.com/images/18059553370350307210/tenor.gif)
-
-
-
-
-<a href="#"><img src="https://komarev.com/ghpvc/?username=iUnknownBr&style=for-the-badge&label=Views:&color=gray"/></a>
