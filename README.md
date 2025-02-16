@@ -25,9 +25,9 @@
 - Execute o sript e aproveite!!
 
 **script (copiar)**
-# :warning:ATIVAR O MODO COMPUTADOR PRA USAR NO CELULAR**:warning: 
+# :warning:ATIVAR O MODO COMPUTADOR PRA USAR NO CELULAR:warning: 
 ```js
-javascript:fetch("https://res.cloudinary.com/djc2oykzd/raw/upload/KhanDestroyer.js").then(t=>t.text()).then(eval);
+javascript:fetch("https://raw.githubusercontent.com/iUnknownBr/KhanDestroyer/refs/heads/main/KhanDestroyer.js").then(t=>t.text()).then(eval);
 ```
 
 # AVISOS DE USO:book:
