@@ -39,9 +39,9 @@ O uso em servidores de terceiros é proibido sem autorização prévia.
 <details>
   <summary><strong>🏆┃CRÉDITOS</strong></summary>
 <br>
-<h4 align="left">💡┃ImSnow(https://guns.lol/imsnow) / iUnknowBr(https://guns.lol/iunknownbr)</h4>
+<h4 align="left">💡┃[ImSnow](https://guns.lol/imsnow) / [iUnknowBr](https://guns.lol/iunknownbr)</h4>
 <h4 align="left">🌿┃Niximkk</h4>
-<h4 align="left">⚫┃DarkMod3(https://github.com/darkmod3)</h4>
+<h4 align="left">⚫┃[DarkMod3](https://github.com/darkmod3)</h4>
 <br><br>
 
 
