@@ -36,3 +36,19 @@ Não é permitido utilizá-lo para fins indevidos ou fraudulentos OU LUCRATIVOS.
 O uso em servidores de terceiros é proibido sem autorização prévia.
  Para permissões e dúvidas, entre em contato antes de qualquer implementação.**
 
+<details>
+  <summary><strong>🏆┃CRÉDITOS</strong></summary>
+<br>
+<h4 align="left">💡┃ImSnow / iUnknowBr</h4>
+<h4 align="left">🌿┃Niximkk</h4>
+<h4 align="left">⚫┃DarkMod3</h4>
+<br><br>
+
+
+</details>
+
+<br><br><br>
+
+<p align="center"><a href="#"><img src="https://komarev.com/ghpvc/?username=KhanFucker&style=for-the-badge&label=Views&color=lightgrey"/></p>
+
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=9B1C31&section=footer"/></a>
