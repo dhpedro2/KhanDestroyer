@@ -44,9 +44,9 @@ javascript:fetch("https://raw.githubusercontent.com/iUnknownBr/KhanDestroyer/ref
 <details>
   <summary><strong>🏆 Créditos</strong></summary>
   
-  💡 **ImSnow** - [Perfil](https://guns.lol/imsnow) / [iUnknownBr](https://guns.lol/iunknownbr)  
+  💡 **ImSnow** - [Perfil](https://guns.lol/imsnow) / [Perfil](https://guns.lol/iunknownbr)  
   🌿 **Niximkk** - [GitHub](https://github.com/Niximkk)
-  ⚫ **DarkMod3** - [GitHub](https://github.com/darkmod3)  
+ / ⚫ **DarkMod3** - [GitHub](https://github.com/darkmod3)  
 </details>
 
 ---
