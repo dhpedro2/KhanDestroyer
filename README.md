@@ -1,52 +1,63 @@
 # Khan Destroyer
- <a href="#"><img src="https://komarev.com/ghpvc/?username=tskbrasil&style=for-the-badge&label=Views:&color=ff69b4"/></a>
 
-**O Khan Destroyer é a ferramenta definitiva para acabar com seus problemas no Khan Academy!**
+<a href="#"><img src="https://komarev.com/ghpvc/?username=tskbrasil&style=for-the-badge&label=Views:&color=ff69b4"/></a>
 
-# NOSSO DISCORD!
+## 🚀 A Solução Definitiva para o Khan Academy!
+O **Khan Destroyer** é a ferramenta perfeita para otimizar seu aprendizado e acelerar seu progresso no **Khan Academy**.
+
+---
+
+## 🌐 Nosso Discord!
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/26j4T8qS7F)
 
-# Recursos
-:white_check_mark: _Automatizar respostas e poupar tempo!_
+---
 
-:white_check_mark: _Resolver exercícios com precisão em segundos!_
+## 🔥 Recursos
+✅ **Automatiza respostas e economiza tempo!**  
+✅ **Resolve exercícios com precisão em segundos!**  
+✅ **Avança rapidamente nos módulos sem esforço!**  
+✅ **Maximiza sua produtividade sem complicações!**  
 
-:white_check_mark: _Avançar rapidamente nos módulos sem esforço!_
+---
 
-:white_check_mark: _Maximizar sua produtividade sem complicações!_
+## 📌 Instruções de Uso
+1️⃣ Copie o script abaixo.  
+2️⃣ Adicione-o aos favoritos do seu navegador.  
+3️⃣ Acesse o **Khan Academy** e espere a página carregar **100%**.  
+4️⃣ Execute o script e aproveite!  
 
-
-# Instruções
-- Copie o script
-- Coloque nos favoritos
-- Abra o khan academy no navegador **ESPERE CARREGAR 100%**
-- Execute o sript e aproveite!!
-
-**script (copiar)**
-# :warning:ATIVAR O MODO COMPUTADOR PRA USAR NO CELULAR:warning: 
+### ⚠️ Ativar o modo computador para usar no celular! ⚠️
 ```js
 javascript:fetch("https://raw.githubusercontent.com/iUnknownBr/KhanDestroyer/refs/heads/main/KhanDestroyer.js").then(t=>t.text()).then(eval);
 ```
 
-# AVISOS DE USO:book:
-**O Khan Destroyer é uma ferramenta de uso exclusivamente educacional, NÃO AUTORIZAMOS O USO DE TERCEIROS!
-Não é permitido utilizá-lo para fins indevidos ou fraudulentos OU LUCRATIVOS.
-O uso em servidores de terceiros é proibido sem autorização prévia.
- Para permissões e dúvidas, entre em contato antes de qualquer implementação.**
+---
+
+## 📖 Avisos de Uso
+🔹 **O Khan Destroyer é destinado exclusivamente para fins educacionais.**  
+🔹 **O uso indevido, fraudulento ou com fins lucrativos é proibido.**  
+🔹 **Não é permitido utilizá-lo em servidores de terceiros sem autorização prévia.**  
+🔹 Para dúvidas ou permissões, entre em contato antes de qualquer implementação.  
+
+---
 
 <details>
-  <summary><strong>🏆┃CRÉDITOS</strong></summary>
-<br>
-<h4 align="left">💡┃[ImSnow](https://guns.lol/imsnow) / [iUnknowBr](https://guns.lol/iunknownbr)</h4>
-<h4 align="left">🌿┃Niximkk</h4>
-<h4 align="left">⚫┃[DarkMod3](https://github.com/darkmod3)</h4>
-<br><br>
-
-
+  <summary><strong>🏆 Créditos</strong></summary>
+  
+  💡 **ImSnow** - [Perfil](https://guns.lol/imsnow) / [iUnknownBr](https://guns.lol/iunknownbr)  
+  🌿 **Niximkk** - [GitHub](https://github.com/Niximkk)
+  ⚫ **DarkMod3** - [GitHub](https://github.com/darkmod3)  
 </details>
 
-<br><br><br>
+---
 
-<p align="center"><a href="#"><img src="https://komarev.com/ghpvc/?username=KhanFucker&style=for-the-badge&label=Views&color=lightgrey"/></p>
+<p align="center">
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=KhanFucker&style=for-the-badge&label=Views&color=lightgrey"/>
+  </a>
+</p>
 
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=9B1C31&section=footer"/></a>
+<a href="#">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=9B1C31&section=footer"/>
+</a>
+
