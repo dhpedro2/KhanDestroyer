@@ -3,7 +3,7 @@
 
 **O Khan Destroyer é a ferramenta definitiva para acabar com seus problemas no Khan Academy!**
 
-**Desenvolvidor por: [! im Snow](https://guns.lol/imsnow)&[iUnknowBr](https://guns.lol/iunknownbr)**
+**Desenvolvidor por: [! im Snow]&[iUnknowBr]**
 
 # NOSSO DISCORD!
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/26j4T8qS7F)
@@ -39,9 +39,9 @@ O uso em servidores de terceiros é proibido sem autorização prévia.
 <details>
   <summary><strong>🏆┃CRÉDITOS</strong></summary>
 <br>
-<h4 align="left">💡┃ImSnow / iUnknowBr</h4>
+<h4 align="left">💡┃ImSnow(https://guns.lol/imsnow) / iUnknowBr(https://guns.lol/iunknownbr)</h4>
 <h4 align="left">🌿┃Niximkk</h4>
-<h4 align="left">⚫┃DarkMod3</h4>
+<h4 align="left">⚫┃DarkMod3(https://github.com/darkmod3)</h4>
 <br><br>
 
 
