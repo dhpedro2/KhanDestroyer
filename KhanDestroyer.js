@@ -1,4 +1,4 @@
-const ver = "V3.0.5";
+
 const featureConfigs = {
   initialDelay: 3000,
   subsequentDelays: [300, 1500, 500, 2000]
