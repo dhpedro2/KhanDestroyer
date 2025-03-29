@@ -124,8 +124,8 @@ function autoAnswer() {
   })();
 }
 if (!/^https?:\/\/pt\.khanacademy\.org/.test(window.location.href)) {
-  alert("❌ Khan Destroyer Failed to Injected!\n\nVocê precisa executar o Khan Destroyer no site do Khan Academy! (https://pt.khanacademy.org/)");
-  window.location.href = "https://pt.khanacademy.org/";
+  alert("❌ Khan Destroyer Failed to Injected!\n\nVocê precisa executar o Khan Destroyer no site do Khan Academy! (https://khanacademy.org/)");
+  window.location.href = "https://khanacademy.org/";
 }
 loadScript("https://cdn.jsdelivr.net/npm/darkreader@4.9.92/darkreader.min.js").then(() => {
   DarkReader.setFetchMethod(window.fetch);
