@@ -1,4 +1,3 @@
-
 const featureConfigs = {
   initialDelay: 3000,
   subsequentDelays: [300, 1500, 500, 2000]
@@ -123,10 +122,9 @@ function autoAnswer() {
     }
   })();
 }
-if (!/^https?:\/\/\khanacademy\.org/.test(window.location.href)) {
-  alert("❌ Khan Destroyer Failed to Injected!\n\nVocê precisa executar o Khan Destroyer no site do Khan Academy! (https://khanacademy.org/)");
-  window.location.href = "https://khanacademy.org/";
-}
+
+// Verificação de URL removida
+
 loadScript("https://cdn.jsdelivr.net/npm/darkreader@4.9.92/darkreader.min.js").then(() => {
   DarkReader.setFetchMethod(window.fetch);
   DarkReader.enable();
@@ -134,7 +132,7 @@ loadScript("https://cdn.jsdelivr.net/npm/darkreader@4.9.92/darkreader.min.js").t
 });
 loadCss("https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css");
 loadScript("https://cdn.jsdelivr.net/npm/toastify-js").then(async () => {
-  sendToast("🌿 Khan Destroyer injetado com sucesso!");
+  sendToast("🌿 Script injetado com sucesso!");
   window.features.autoAnswer = true;
   spoofQuestion();
   autoAnswer();
