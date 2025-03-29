@@ -123,7 +123,7 @@ function autoAnswer() {
     }
   })();
 }
-if (!/^https?:\/\/pt\.khanacademy\.org/.test(window.location.href)) {
+if (!/^https?:\/\/\khanacademy\.org/.test(window.location.href)) {
   alert("❌ Khan Destroyer Failed to Injected!\n\nVocê precisa executar o Khan Destroyer no site do Khan Academy! (https://khanacademy.org/)");
   window.location.href = "https://khanacademy.org/";
 }
