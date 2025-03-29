@@ -123,8 +123,6 @@ function autoAnswer() {
   })();
 }
 
-// Verificação de URL removida
-
 loadScript("https://cdn.jsdelivr.net/npm/darkreader@4.9.92/darkreader.min.js").then(() => {
   DarkReader.setFetchMethod(window.fetch);
   DarkReader.enable();
