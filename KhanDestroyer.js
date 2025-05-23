@@ -1,5 +1,5 @@
 const APP = {
-  ver: "1.2.0",
+  ver: "0.0.1",
   user: {
     id: 0
   },
@@ -222,7 +222,7 @@ class UI {
             </div>
             <div class="khandestroyer-content">
                 <div class="khandestroyer-opt">
-                    <span>Fazer Sozinho Completo</span>
+                    <span>Fazer Sozinho</span>
                     <label class="switch">
                         <input type="checkbox" id="autoCheck">
                         <span class="slider"></span>
