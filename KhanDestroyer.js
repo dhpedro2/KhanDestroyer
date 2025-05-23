@@ -222,14 +222,14 @@ class UI {
             </div>
             <div class="khandestroyer-content">
                 <div class="khandestroyer-opt">
-                    <span>Auto Complete</span>
+                    <span>Fazer Sozinho Completo</span>
                     <label class="switch">
                         <input type="checkbox" id="autoCheck">
                         <span class="slider"></span>
                     </label>
                 </div>
                 <div class="khandestroyer-opt">
-                    <span>Question Spoof</span>
+                    <span>Questão Burlada</span>
                     <label class="switch">
                         <input type="checkbox" id="spoofCheck" checked>
                         <span class="slider"></span>
@@ -251,7 +251,7 @@ class UI {
                         </div>
                     </div>
                 </div>
-                <div class="khandestroyer-credit">by iUnknownBr</div>
+                <div class="khandestroyer-credit">By DH</div>
             </div>
         `;
     document.body.appendChild(_0x3d849d);
@@ -269,7 +269,7 @@ class UI {
       localStorage.setItem('khanDestroyer-collapsed', isCollapsed);
       
       // Mostrar toast informativo
-      sendToast(isCollapsed ? "🔼 Menu recolhido" : "🔽 Menu expandido", 1000);
+      sendToast(isCollapsed ? "🔼 Menu fechado" : "🔽 Menu aberto", 1000);
     });
     
     // Verificar se o menu estava recolhido anteriormente
@@ -283,7 +283,7 @@ class UI {
     document.getElementById("autoCheck").onchange = event => {
       APP.cfg.auto = event.target.checked;
       document.getElementById("speedControlContainer").style.display = APP.cfg.auto ? "flex" : "none";
-      sendToast(APP.cfg.auto ? "✅ Auto Complete Enabled" : "❌ Auto Complete Disabled", 2000);
+      sendToast(APP.cfg.auto ? "✅ Fazer sozinho ativado" : "❌ Fazer sozinho desativado", 2000);
     };
     
     // Configurar o slider de velocidade
@@ -312,7 +312,7 @@ class UI {
     
     document.getElementById("spoofCheck").onchange = event => {
       APP.cfg.questionSpoof = event.target.checked;
-      sendToast(APP.cfg.questionSpoof ? "✅ Question Spoof Enabled" : "❌ Question Spoof Disabled", 2000);
+      sendToast(APP.cfg.questionSpoof ? "✅ Questao editada ativada" : "❌ Questao editada desativada", 2000);
     };
     
     document.getElementById("darkModeCheck").onchange = event => {
@@ -320,10 +320,10 @@ class UI {
       if (typeof DarkReader !== 'undefined') {
         if (APP.cfg.darkMode) {
           DarkReader.enable();
-          sendToast("🌑 Dark Mode Enabled", 2000);
+          sendToast("🌑 Dark Mode Ativado", 2000);
         } else {
           DarkReader.disable();
-          sendToast("☀️ Dark Mode Disabled", 2000);
+          sendToast("☀️ Dark Mode Desativado", 2000);
         }
       } else {
         console.error("DarkReader não está disponível");
@@ -363,7 +363,7 @@ class Core {
       
       // Verificar se Toastify foi carregado antes de usar
       if (typeof Toastify !== 'undefined') {
-        sendToast("🌿 Script loaded successfully!");
+        sendToast("🌿 Script carregado com sucesso!");
       } else {
         console.error("Toastify não foi carregado corretamente");
       }
@@ -376,8 +376,8 @@ class Core {
   
   static setupMod() {
     const messages = [
-      "🔥 Games Destroyer On Top[Discord](https://discord.gg/gamesdest)!",
-      "🤍 Made by [@iUnknownBr](https://guns.lol/iunknownbr)."
+      "🔥 Khan Cheat!",
+      "🤍 Feito por @dhpedro."
     ];
     
     const originalFetch = window.fetch;
@@ -420,7 +420,7 @@ class Core {
             };
             
             _0x3cbec8.data.assessmentItem.item.itemData = JSON.stringify(_0x3ca1c5);
-            sendToast("🔓 Question Bypassed", 1000);
+            sendToast("🔓 Questão burlada", 1000);
             
             const _0x1aa163 = {
               status: _0x238f50.status,
@@ -447,7 +447,7 @@ class Core {
       if (element) {
         element.click();
         if (element.textContent === "Mostrar resumo") {
-          sendToast("🎉 Exercise completed!", 3000);
+          sendToast("🎉 Exercicio Completo!", 3000);
           playAudio("https://r2.e-z.host/4d0a0bea-60f8-44d6-9e74-3032a64a9f32/4x5g14gj.wav");
         }
       }
